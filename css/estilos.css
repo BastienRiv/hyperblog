@@ -38,6 +38,13 @@ body
 {
     font-size: 20px;
 }
+
+#container h3
+{
+    font-size: 20px;
+    color: palevioletred;
+}
+
 #post
 {
     padding: 1em;
